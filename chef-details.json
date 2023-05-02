@@ -13,7 +13,7 @@
     "years_of_experience": 15,
     "number_of_recipes": 92,
     "likes": 1500,
-    "chef_image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "chef_image": "https://images.unsplash.com/photo-1574966739518-0932fea93759?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "years_of_experience": 8,
     "number_of_recipes": 48,
     "likes": 800,
-    "chef_image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "chef_image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "years_of_experience": 10,
     "number_of_recipes": 65,
     "likes": 1100,
-    "chef_image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "chef_image": "https://images.unsplash.com/photo-1592332297790-c7c27c38ecb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "years_of_experience": 20,
     "number_of_recipes": 150,
     "likes": 2500,
-    "chef_image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "chef_image": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWFzdGVyJTIwY2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "years_of_experience": 5,
     "number_of_recipes": 30,
     "likes": 500,
-    "chef_image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "chef_image": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   }
 ]
