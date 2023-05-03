@@ -34,7 +34,7 @@ app.get('/chefrecipes/:id',(req,res)=>{
 app.get('/recipe/:id',(req,res)=>{
     const id = req.params.id;
     // console.log(id);
-    const recipe= chefrecipes.find(recipe=>recipe.id === id)
+    const recipe= chefrecipes.find(recipe=>recipe.chef_id === id)
     res.send(recipe)
 })
 
