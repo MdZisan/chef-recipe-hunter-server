@@ -3,7 +3,6 @@
     "id": "JF93K",
     "chef_id": "1",
     "recipe_name": "Bengali Fish Curry",
-    "rating":4.5,
     "recipe_description": "A delicious and spicy fish curry made with fresh fish and a variety of aromatic spices.",
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
@@ -40,7 +39,6 @@
     "id": "JF93K",
     "chef_id": "1",
     "recipe_name": "Bengali Fish Curry",
-    "rating":4.5,
     "recipe_description": "A delicious and spicy fish curry made with fresh fish and a variety of aromatic spices.",
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
@@ -77,7 +75,6 @@
     "id": "JF93K",
     "chef_id": "1",
     "recipe_name": "Bengali Fish Curry",
-    "rating":4.5,
     "recipe_description": "A delicious and spicy fish curry made with fresh fish and a variety of aromatic spices.",
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
@@ -114,7 +111,6 @@
     "id": "P7R2G",
     "chef_id": "2",
     "recipe_name": "Chicken Biryani",
-    "rating":4.5,
     "recipe_description": "A classic rice dish made with succulent chicken, fragrant spices, and basmati rice.",
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
@@ -151,7 +147,6 @@
     "id": "P7R2G",
     "chef_id": "2",
     "recipe_name": "Chicken Biryani",
-    "rating":4.5,
     "recipe_description": "A classic rice dish made with succulent chicken, fragrant spices, and basmati rice.",
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
@@ -188,7 +183,6 @@
     "id": "P7R2G",
     "chef_id": "2",
     "recipe_name": "Chicken Biryani",
-    "rating":4.5,
     "recipe_description": "A classic rice dish made with succulent chicken, fragrant spices, and basmati rice.",
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
@@ -225,7 +219,6 @@
     "id": "XE5H9",
     "chef_id": "3",
     "recipe_name": "Shorshe Ilish",
-    "rating":4.5,
     "recipe_description": "A traditional Bengali dish made with Hilsa fish and mustard paste.",
     "instructions": [
       "In a large mixing bowl, add the ground beef or lamb.",
@@ -256,7 +249,6 @@
     "id": "XE5H9",
     "chef_id": "3",
     "recipe_name": "Shorshe Ilish",
-    "rating":4.5,
     "recipe_description": "A traditional Bengali dish made with Hilsa fish and mustard paste.",
     "instructions": [
       "In a large mixing bowl, add the ground beef or lamb.",
@@ -287,7 +279,6 @@
     "id": "XE5H9",
     "chef_id": "3",
     "recipe_name": "Shorshe Ilish",
-    "rating":4.5,
     "recipe_description": "A traditional Bengali dish made with Hilsa fish and mustard paste.",
     "instructions": [
       "In a large mixing bowl, add the ground beef or lamb.",
@@ -318,7 +309,6 @@
     "id": "V6N8P",
     "chef_id": "4",
     "recipe_name": "Chapli Kabab",
-    "rating":4.5,
     "recipe_description": "A popular Pakistani meat dish made with minced beef, spices, and herbs.",
     "instructions": [
       "In a large mixing bowl, add the ground beef or lamb.",
@@ -350,7 +340,6 @@
     "id": "V6N8P",
     "chef_id": "4",
     "recipe_name": "Chapli Kabab",
-    "rating":4.5,
     "recipe_description": "A popular Pakistani meat dish made with minced beef, spices, and herbs.",
     "instructions": [
       "In a large mixing bowl, add the ground beef or lamb.",
@@ -382,7 +371,6 @@
     "id": "V6N8P",
     "chef_id": "4",
     "recipe_name": "Chapli Kabab",
-    "rating":4.5,
     "recipe_description": "A popular Pakistani meat dish made with minced beef, spices, and herbs.",
     "instructions": [
       "In a large mixing bowl, add the ground beef or lamb.",
@@ -414,7 +402,6 @@
     "id": "L2T4M",
     "chef_id": "5",
     "recipe_name": "Kacchi Biryani",
-    "rating":4.5,
     "instructions": [
       "Wash the mutton and drain the water.",
       "In a bowl, mix the mutton, yogurt, onion, garlic paste, ginger paste, green chili, salt, and sugar. Marinate for at least 2 hours.",
@@ -447,7 +434,6 @@
     "id": "L2T4M",
     "chef_id": "5",
     "recipe_name": "Kacchi Biryani",
-    "rating":4.5,
     "instructions": [
       "Wash the mutton and drain the water.",
       "In a bowl, mix the mutton, yogurt, onion, garlic paste, ginger paste, green chili, salt, and sugar. Marinate for at least 2 hours.",
@@ -480,7 +466,6 @@
     "id": "L2T4M",
     "chef_id": "5",
     "recipe_name": "Kacchi Biryani",
-    "rating":4.5,
     "instructions": [
       "Wash the mutton and drain the water.",
       "In a bowl, mix the mutton, yogurt, onion, garlic paste, ginger paste, green chili, salt, and sugar. Marinate for at least 2 hours.",
@@ -513,7 +498,6 @@
     "id": "Q1D7F",
     "chef_id": "6",
     "recipe_name": "Dhaka Style Chicken Roast",
-    "rating":4.5,
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
 
@@ -554,7 +538,6 @@
     "id": "Q1D7F",
     "chef_id": "6",
     "recipe_name": "Dhaka Style Chicken Roast",
-    "rating":4.5,
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
 
@@ -595,7 +578,6 @@
     "id": "Q1D7F",
     "chef_id": "6",
     "recipe_name": "Dhaka Style Chicken Roast",
-    "rating":4.5,
     "instructions": [
       "In a large mixing bowl, combine the ginger paste, garlic paste, red chili powder, coriander powder, cumin powder, turmeric powder, garam masala powder, plain yogurt, lemon juice, and salt. Mix well to form a marinade.",
 

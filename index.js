@@ -15,7 +15,13 @@ res.send('Hello World!')
 app.get('/chefs',(req,res)=>{
     res.send(chefs)
 });
+app.get('/chefs/:id',(req,res)=>{
+    const id = parseInt(req.params.id);
+    // console.log(id);
+    const singlechef = chefs.find(chef=>chef.id===id)
+    res.send(singlechef)
 
+})
 
 app.get('/chefrecipes/:id',(req,res)=>{
     const id = req.params.id;
@@ -23,6 +29,13 @@ app.get('/chefrecipes/:id',(req,res)=>{
 
     res.send(chefrecipe)
     
+})
+
+app.get('/recipe/:id',(req,res)=>{
+    const id = req.params.id;
+    // console.log(id);
+    const recipe= chefrecipes.find(recipe=>recipe.id === id)
+    res.send(recipe)
 })
 
 
