@@ -1,0 +1,21 @@
+
+
+ [
+      { "id":1,
+        "question": "Tell us the differences between uncontrolled and controlled components.",
+        "answer": "Controlled components are those that are handled by the program, and the developer has control over their state. Uncontrolled components are those whose state is controlled by the browser. Although uncontrolled components are simpler to use and require less code, they provide less control and are not appropriate for complex scenarios."
+      },
+      {"id":2,
+        "question": "How to validate React props using PropTypes?",
+        "answer": "To validate React props using PropTypes, you need to create PropTypes for the component, which describe the expected data types for each prop and whether they are required or optional. React will automatically validate the props supplied to the component after the PropTypes are established. A warning will be logged in the console by React if a prop doesn't match the anticipated type."
+      },
+      {"id":3,
+        "question": "Tell us the difference between Node.js and Express.js.",
+        "answer": "Node.js is a JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser, while Express.js is a web framework for Node.js that provides a set of features and tools for building web applications."
+      },
+      {"id":4,
+        "question": "What is a custom hook, and why will you create a custom hook?",
+        "answer": "A custom hook in React is a function that enables the sharing of stateful functionality between components. Custom hooks allow you to reuse shared stateful functionality across several components without having to write duplicate code. You would create a custom hook to reuse stateful functionality across many components and keep your code well-organized and simpler to comprehend."
+      }
+    ]
+  
